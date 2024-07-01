@@ -16,10 +16,9 @@ Users can extract articles by running the provided script. The script performs a
 
 ## Screenshots
 ## Example output of extracted article details.
-![Example Output](#)
+![Example Output](https://github.com/Sayan-Maity-Code/article_finder/blob/main/images/article.jpg)
+![Example Output](https://github.com/Sayan-Maity-Code/article_finder/blob/main/images/article_2.jpg)
                         
-## Example of error handling and logging.
-![Error Handling](#)
 
 ## Installation
 To import the libraries:
@@ -47,13 +46,12 @@ pip install requests beautifulsoup4 google newspaper3k nltk
 
 - Or you can just git clone the code but please change the path files according to your local machine:
 ```bash
-git clone https://github.com/yourusername/article-extraction-and-analysis
+git clone https://github.com/Sayan-Maity-Code/article_finder
 ```
 
 - Install with npm:
 ```bash
-npm install git+https://github.com/yourusername/article-extraction-and-analysis.git
-cd article-extraction-and-analysis
+npm install git+https://github.com/Sayan-Maity-Code/article_finder
 ```
 
 ## Contributing
@@ -77,4 +75,4 @@ Please adhere to this project's contribution guidelines. During your interaction
 We are continuously working to improve the article extraction and analysis project. Future updates may include enhancements to the extraction methods, optimization of data processing, and integration of additional analysis features.
 
 ## Contact
-For any questions, feedback, or suggestions, please contact [your-email@example.com].
+For any questions, feedback, or suggestions, please contact [sayanmaity8001@gmail.com].
